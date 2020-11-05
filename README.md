@@ -1,5 +1,5 @@
 # reactProjectOne
 
 Project for a new restaurant
-starting with menu
-planned (about page, covid19 guest tracking, about us)
+starting with menu, 
+further steps after clients approval: about page, covid19 guest tracking, about us
